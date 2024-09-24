@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello word!";
 ```
+
+- [ ] slkdjflafj
+- [ ] l;ajfodbws
+- [ ] indeed
